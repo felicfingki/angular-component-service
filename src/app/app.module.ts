@@ -7,7 +7,7 @@ import { HelloComponent } from './hello.component';
 
 import { halaman1Component } from '../halaman1/halaman1.component';
 import { halaman2Component } from '../halaman2/halaman2.component';
-import { halaman3Component } from '../halaman3/halaman3.component';
+import { halaman3Component } from '../halaman3/halaman3.compoasdasdasdanent';
 
 import {Routes} from '@angular/router';
 
